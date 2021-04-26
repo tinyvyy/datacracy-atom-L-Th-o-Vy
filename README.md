@@ -13,7 +13,7 @@ Là một kho chứa tất cả các mã nguồn của một dự án.
 Một fork là một bản copy của một repository (Kho chứa source code của bạn trên Github). 
 Việc fork một repository cho phép bạn dễ dàng chỉnh sửa, thay đổi source code mà không ảnh hưởng tới source gốc
 
-# 4. Giải thích ý nghĩa của Branch, Commit mesage bạn thấy khi link Colab với Github?
+# 4. Giải thích ý nghĩa của Branch, Commit message bạn thấy khi link Colab với Github?
 
 Branching (phân nhánh) giúp ta có thể chỉnh sửa cùng lúc và lưu trữ nhiều phiên bản của Repository, mà không ảnh hưởng đến các branch khác
 
@@ -21,4 +21,4 @@ Khi tiến hành commit lần đầu trong repository thì Git sẽ tạo ra m�
 
 Những branch đã được chỉnh sửa có thể tổng hợp với nhau để tạo thành một branch duy nhất.
 
-
+Commit Message: Lịch sử thay đổi/ thông báo về các thay đổi của dự án.
