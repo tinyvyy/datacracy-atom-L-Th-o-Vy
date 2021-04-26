@@ -1,4 +1,4 @@
-# datacracy-atom-Levy 
+# datacracy-atom-Le  
 # 1. Github dùng để làm gì?
 
 GitHub là một hệ thống quản lý dự án và phiên bản code, hoạt động giống như một mạng xã hội cho lập trình viên. 
