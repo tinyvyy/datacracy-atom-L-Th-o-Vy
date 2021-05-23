@@ -20,7 +20,7 @@ Việc fork một repository cho phép bạn dễ dàng chỉnh sửa, thay đ�
 
 Branching (phân nhánh) giúp ta có thể chỉnh sửa cùng lúc và lưu trữ nhiều phiên bản của Repository, mà không ảnh hưởng đến các branch khác
 
-Khi tiến hành commit lần đầu trong repository thì Git sẽ tạo ra một branch có tên là ma. Vì thế những lần commit sau sẽ được thêm vào branch master cho đến khi chuyển đổi branch.
+Khi tiến hành commit lần đầu trong repository thì Git sẽ tạo ra một branch có tên là master. Vì thế những lần commit sau sẽ được thêm vào branch master cho đến khi chuyển đổi branch.
 
 Những branch đã được chỉnh sửa có thể tổng hợp với nhau để tạo thành một branch duy nhất.
 
